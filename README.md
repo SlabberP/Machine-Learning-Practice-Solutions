@@ -1,11 +1,10 @@
-# Sales prediction for food items sold at various retail store outlets
-## Food Item sales and the features that impact the sales.
+# Machine Learning - Project 2
+## Proposing 2 different datasets for machine learning
 
 **Author**: Pieter Slabber
 
-![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/data-scientist.jpg)
 
-### Business problem:
+### Proposal 1:
 
 The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
