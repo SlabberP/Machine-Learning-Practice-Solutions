@@ -6,7 +6,7 @@
 
 ### Proposal 1: Car Insurance Claim Prediction
 
-## Source of the data:
+#### Source of the data:
 
 https://www.kaggle.com/datasets/sagnik1511/car-insurance-data 
 
