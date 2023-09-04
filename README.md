@@ -4,9 +4,17 @@
 **Author**: Pieter Slabber
 
 
-### Proposal 1:
+### Proposal 1: Car Insurance Claim Prediction
 
-The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
+About Dataset:
+
+Context
+The company has shared its annual car insurance data. Now, you have to find out the real customer behaviors over the data.
+
+Content
+The columns are resembling practical world features.
+The outcome column indicates 1 if a customer has claimed his/her loan else 0.
+The data has 19 features from there 18 of them are corresponding logs which were taken by the company.
 
 
 ### Data:
