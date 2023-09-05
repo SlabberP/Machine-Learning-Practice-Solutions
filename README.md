@@ -4,7 +4,7 @@
 **Author**: Pieter Slabber
 
 
-### Proposal 1: Car Insurance Claim Prediction
+### First Choice - Dataset 1: Car Insurance Claim Prediction
 
 #### Source of the data:
 
@@ -23,19 +23,20 @@ The data has 19 features from there 18 of them are corresponding logs which were
 #### Target:
 The target is the 'Outcome' column which is a binary classification answer.
 
-### Data:
+#### Data:
 This is business data
 
-### Problem:
+#### Problem:
 This is a classification problem.
 
-### Features:
+#### Features:
 The data consists of 19 features.
 
-### Rows :
+#### Rows :
 The dataset consists of 10000 rows.
 
-
+#### Challenges with cleaning the data:
+I need to decide to remove some of the features and also 
 
 ### Data Dictionary:
 The data consists of columns containing information regarding different products and stores.
