@@ -38,7 +38,7 @@ The dataset consists of 10000 rows.
 
 #### Challenges with cleaning the data:
 I need to decide to remove some of the features and also Which inconsistencies exists. This could be a challenging dataset but it is close to a real world example as one can get.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Second Choice - Dataset 2: Adult income dataset
 
 #### Source of the data:
