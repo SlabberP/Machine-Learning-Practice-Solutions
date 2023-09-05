@@ -38,40 +38,41 @@ The dataset consists of 10000 rows.
 
 #### Challenges with cleaning the data:
 I need to decide to remove some of the features and also Which inconsistencies exists. This could be a challenging dataset but it is close to a real world example as one can get.
-
-### Second Choice - Dataset 2: Car Insurance Claim Prediction
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Second Choice - Dataset 2: Adult income dataset
 
 #### Source of the data:
 
-https://www.kaggle.com/datasets/sagnik1511/car-insurance-data 
-
+https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 #### Brief Description of the data:
 Context
-The company has shared its annual car insurance data. Now, you have to find out the real customer behaviors over the data.
+An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
 Content
 The columns are resembling practical world features.
-The outcome column indicates 1 if a customer has claimed his/her loan else 0.
 The data has 19 features from there 18 of them are corresponding logs which were taken by the company.
 
 #### Target:
-The target is the 'Outcome' column which is a binary classification answer.
+The target is the 'Income' column which is a binary classification answer.
 
 #### Data:
-This is business data
+This is census data
 
 #### Problem:
-This is a classification problem. The outcome column indicates 1 if a customer has claimed his/her loan else 0.
+This is a classification problem. The income is divide into two classes: <=50K and >50K.
 
 #### Features:
-The data consists of 19 features.
+The data consists of 16 features.
 
 #### Rows :
-The dataset consists of 10000 rows.
+The dataset consists of 48842 rows.
 
 #### Challenges with cleaning the data:
 I need to decide to remove some of the features and also Which inconsistencies exists. This could be a challenging dataset but it is close to a real world example as one can get.
+
+
+
 
 ### Data Dictionary:
 The data consists of columns containing information regarding different products and stores.
