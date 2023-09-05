@@ -11,8 +11,7 @@
 https://www.kaggle.com/datasets/sagnik1511/car-insurance-data 
 
 
-About Dataset:
-
+#### Brief Description of the data:
 Context
 The company has shared its annual car insurance data. Now, you have to find out the real customer behaviors over the data.
 
@@ -21,9 +20,22 @@ The columns are resembling practical world features.
 The outcome column indicates 1 if a customer has claimed his/her loan else 0.
 The data has 19 features from there 18 of them are corresponding logs which were taken by the company.
 
+#### Target:
+The target is the 'Outcome' column which is a binary classification answer.
 
 ### Data:
-Data Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+This is business data
+
+### Problem:
+This is a classification problem.
+
+### Features:
+The data consists of 19 features.
+
+### Rows :
+The dataset consists of 10000 rows.
+
+
 
 ### Data Dictionary:
 The data consists of columns containing information regarding different products and stores.
