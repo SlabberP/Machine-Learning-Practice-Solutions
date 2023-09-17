@@ -3,8 +3,9 @@
 
 **Author**: Pieter Slabber
 
+![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/data-scientist.jpg)
 
-### First Choice - Dataset 1: Car Insurance Claim Prediction
+### Dataset: Car Insurance Claim Prediction
 
 #### Source of the data:
 
