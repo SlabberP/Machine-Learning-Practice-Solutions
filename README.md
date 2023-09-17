@@ -58,15 +58,15 @@ No inconsistencies found in the Categorical columns.
 
 #### Heatmap
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/HeatMap.png)
 
 #### Regression Plot
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Regression_Plot.png)
 
 #### Bar Plot
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Bar_Plot.png)
 
 The data was cleaned using the normal removal of the duplicate values.
 It was then checked for inconsistencies. The inconsistencies were fixed.
