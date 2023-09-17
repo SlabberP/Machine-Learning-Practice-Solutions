@@ -72,7 +72,7 @@ A humorous correlation is between SPEEDING_VIOLATION and CHILDREN.
 
 I can also see a correlation between VEHICLE_OWNERSHIP and CREDIT_SCORE which also makes sense.
 
-Unfortunately it is difficult to find any correlation between the feautures and the target(OUTCOME) looking at the heatmap.
+Unfortunately it is difficult to find any correlation between the feautures and the target(OUTCOME) looking at the heatmap..
 
 #### Regression Plot
 
