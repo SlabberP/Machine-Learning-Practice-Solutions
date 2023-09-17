@@ -38,4 +38,26 @@ The dataset consists of 10000 rows.
 #### Challenges with cleaning the data:
 I need to decide to remove some of the features and also Which inconsistencies exists. This could be a challenging dataset but it is close to a real world example as one can get.
 
+#### Methods:
+Data preparation steps:
+
+The data was cleaned using the normal removal of the duplicate values.
+It was then checked for inconsistencies. The inconsistencies were fixed.
+The "Item_Outlet_Sales" column or feature was then identified as the target or dependent column.
+Check the data for null values or missing values. Imputing these values only happens after the train/test split.
+Split the train and test data.
+Preprocessing:
+Creating pipelines for encoding and scaling of Categorical, Ordinal and Numerical features.
+Fit the preprocessor to the traing data only
+Transform the training and test data
+Machine Learning:
+
+The model was based on the independant and dependent features which is a regression target.
+Instantiate the Model:
+Fit the model to the training data only
+Train the Model on the training data
+Test the Model
+Tune the Model and test again
+Evaluate the model performance using metrics
+
 For any additional questions, please contact **pieter.slabber@mmltd.co.za**
