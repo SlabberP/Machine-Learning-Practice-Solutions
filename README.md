@@ -1,4 +1,4 @@
-# Machine Learning - Project 2
+# Machine Learning - Project 2 Car Insurance Claim Prediction
 
 **Author**: Pieter Slabber
 
@@ -49,8 +49,24 @@ Both ID and POSTAL_CODE columns were dropped because it should not make a differ
 
 #### Identified and addressed missing values
 It was found that two columns contain null values. The two columns are CREDIT_SCORE and ANNUAL_MILEAGE.
+It was decided the best value for both column missing values was the mean value. This is the only value that make sense for both columns.
 
+#### Identified and corrected inconsistencies in data for categorical values
+No inconsistencies found in the Categorical columns.
 
+### Visuals:
+
+#### Heatmap
+
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
+
+#### Regression Plot
+
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
+
+#### Bar Plot
+
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/carInsur.jpg)
 
 The data was cleaned using the normal removal of the duplicate values.
 It was then checked for inconsistencies. The inconsistencies were fixed.
