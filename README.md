@@ -38,8 +38,19 @@ The dataset consists of 10000 rows.
 #### Challenges with cleaning the data:
 I need to decide to remove some of the features and also Which inconsistencies exists. This could be a challenging dataset but it is close to a real world example as one can get.
 
-#### Methods:
+### Methods:
 Data preparation steps:
+
+#### Delete unnecessary columns:
+Both ID and POSTAL_CODE columns were dropped because it should not make a difference in predicting the target - Outcome column.
+
+#### Check for duplicates
+20 duplicate rows were found and removed.
+
+#### Identified and addressed missing values
+It was found that two columns contain null values. The two columns are CREDIT_SCORE and ANNUAL_MILEAGE.
+
+
 
 The data was cleaned using the normal removal of the duplicate values.
 It was then checked for inconsistencies. The inconsistencies were fixed.
