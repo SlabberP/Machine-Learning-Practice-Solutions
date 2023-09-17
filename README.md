@@ -3,7 +3,7 @@
 
 **Author**: Pieter Slabber
 
-![alt text](https://github.com/SlabberP/Prediction-of-Product-Sales/blob/main/data-scientist.jpg)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions)/blob/main/data-scientist.jpg)
 
 ### Dataset: Car Insurance Claim Prediction
 
