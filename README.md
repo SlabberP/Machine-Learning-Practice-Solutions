@@ -56,7 +56,7 @@ No inconsistencies found in the Categorical columns.
 
 ### Visuals:
 
-#### Heatmap
+### Heatmap
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/HeatMap.PNG)
 
@@ -72,15 +72,15 @@ A humorous correlation is between SPEEDING_VIOLATION and CHILDREN.
 
 I can also see a correlation between VEHICLE_OWNERSHIP and CREDIT_SCORE which also makes sense.
 
-Unfortunately it is difficult to find any correlation between the feautures and the target(OUTCOME) looking at the heatmap..
+Unfortunately it is difficult to find any correlation between the feautures and the target(OUTCOME) looking at the heatmap.
 
-#### Regression Plot
+### Regression Plot
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Regression_Plot.PNG)
 
 If you look at the above graph one can clearly see that the more people that drive underthe influence(DUIS), the more accidents are caused by them which is very clear in relationship between the two columns and the black regression line. In reality it makes sense when people drive under the influence of alcohol or drugs that the chances to make an accident is bigger that if the drive sober. This will obviously cause more claims by die driver and these people are a risk for the Car Insurance company.
 
-#### Bar Plot
+### Bar Plot
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Bar_Plot.PNG)
 
