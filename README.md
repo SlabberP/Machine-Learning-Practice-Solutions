@@ -60,6 +60,9 @@ No inconsistencies found in the Categorical columns.
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/HeatMap.png)
 
+Summary of findings
+
+
 #### Regression Plot
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Regression_Plot.png)
