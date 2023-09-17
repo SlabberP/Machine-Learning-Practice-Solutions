@@ -58,36 +58,32 @@ No inconsistencies found in the Categorical columns.
 
 #### Heatmap
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/HeatMap.png)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/HeatMap.PNG)
 
-Summary of findings
+Summary of correlations between Features and the target:
 
+The lighter the heatmap colour is, the higher the correlation is. In other words, the closer to 1.0 the higher the correlation.
+
+I can see there is a high correlation between PAST_ACCIDENTS and SPEEDING_VIOLATIONS which makes perfect sense.
+
+I can also see a correlation between MARRIED and VEHICLE_OWNERSHIP which also makes sense.
+
+A humorous correlation is between SPEEDING_VIOLATION and CHILDREN.
+
+I can also see a correlation between VEHICLE_OWNERSHIP and CREDIT_SCORE which also makes sense.
+
+Unfortunately it is difficult to find any correlation between the feautures and the target(OUTCOME) looking at the heatmap.
 
 #### Regression Plot
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Regression_Plot.png)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Regression_Plot.PNG)
+
+If you look at the above graph one can clearly see that the more people that drive underthe influence(DUIS), the more accidents are caused by them which is very clear in relationship between the two columns and the black regression line. In reality it makes sense when people drive under the influence of alcohol or drugs that the chances to make an accident is bigger that if the drive sober. This will obviously cause more claims by die driver and these people are a risk for the Car Insurance company.
 
 #### Bar Plot
 
-![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Bar_Plot.png)
+![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/Bar_Plot.PNG)
 
-The data was cleaned using the normal removal of the duplicate values.
-It was then checked for inconsistencies. The inconsistencies were fixed.
-The "Item_Outlet_Sales" column or feature was then identified as the target or dependent column.
-Check the data for null values or missing values. Imputing these values only happens after the train/test split.
-Split the train and test data.
-Preprocessing:
-Creating pipelines for encoding and scaling of Categorical, Ordinal and Numerical features.
-Fit the preprocessor to the traing data only
-Transform the training and test data
-Machine Learning:
-
-The model was based on the independant and dependent features which is a regression target.
-Instantiate the Model:
-Fit the model to the training data only
-Train the Model on the training data
-Test the Model
-Tune the Model and test again
-Evaluate the model performance using metrics
+One can also clearly see that the PAST_ACCIDENTS goes up with more SPEEDING_VIOLATIONS. The more a driver is speeding and get a fine the higher chances are that the accidents will occur and therefor the claims will also increase. These people are risks for the Car insurance company.
 
 For any additional questions, please contact **pieter.slabber@mmltd.co.za**
