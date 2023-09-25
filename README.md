@@ -87,6 +87,7 @@ If you look at the above graph one can clearly see that the more people that dri
 One can also clearly see that the PAST_ACCIDENTS goes up with more SPEEDING_VIOLATIONS. The more a driver is speeding and get a fine the higher chances are that the accidents will occur and therefor the claims will also increase. These people are risks for the Car insurance company.
 
 ### Metrics for the best model
+KNN Model Metrics Report
 Train Report
               precision    recall  f1-score   support
 
