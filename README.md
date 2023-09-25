@@ -100,9 +100,9 @@ Looking at the results above, the KNN perform the best on this dataset without a
 ### Recommendations
 
 1. Past Accidents and Speeding:
-   The recommendation to the insurance company will be to try and look at Speeding violations and past accidents before making a final decision on the client proce structure.
+   The recommendation to the insurance company will be to try and look at speeding violations and past accidents before making a final decision on the client package structure.
    
-3. DUIS and Past Accidents:
+2. DUIS and Past Accidents:
    The recommendations to the insurance company will be to consider very carefully if you want to take on clients driving under the influence and their past accidents.
 
 For any additional questions, please contact **pieter.slabber@mmltd.co.za**
