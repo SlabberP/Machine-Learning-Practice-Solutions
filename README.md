@@ -91,7 +91,7 @@ KNN Model Metrics Report
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/KNN_Class_Report.PNG)
 
-KNN and Logistic Regression models we tested against the data and the KNN model with out hypertuning perfomed the best.
+KNN and Logistic Regression models were tested against the dataset and the KNN model with out hypertuning perfomed the best.
 
 
 
