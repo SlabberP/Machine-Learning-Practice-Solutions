@@ -88,6 +88,7 @@ One can also clearly see that the PAST_ACCIDENTS goes up with more SPEEDING_VIOL
 
 ### Metrics for the best model
 KNN Model Metrics Report
+
 Train Report
               precision    recall  f1-score   support
 
