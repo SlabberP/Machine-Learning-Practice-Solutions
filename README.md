@@ -86,13 +86,23 @@ If you look at the above graph one can clearly see that the more people that dri
 
 One can also clearly see that the PAST_ACCIDENTS goes up with more SPEEDING_VIOLATIONS. The more a driver is speeding and get a fine the higher chances are that the accidents will occur and therefor the claims will also increase. These people are risks for the Car insurance company.
 
+### Models used for predicting the target
+KNN and Logistic Regression models were used for target prediction.
+KNN model without hypertuning perfomed the best.
+
 ### Metrics for the best model
 KNN Model Metrics Report
 
 ![alt text](https://github.com/SlabberP/Machine-Learning-Practice-Solutions/blob/main/KNN_Class_Report.PNG)
 
-KNN and Logistic Regression models were tested against the dataset and the KNN model with out hypertuning perfomed the best.
+Looking at the results above, the KNN perform the best on this dataset without any hypertuning. 
 
+### Recommendations
 
+1. Past Accidents and Speeding:
+   The recommendation to the insurance company will be to try and look at Speeding violations and past accidents before making a final decision on the client proce structure.
+   
+3. DUIS and Past Accidents:
+   The recommendations to the insurance company will be to consider very carefully if you want to take on clients driving under the influence and their past accidents.
 
 For any additional questions, please contact **pieter.slabber@mmltd.co.za**
